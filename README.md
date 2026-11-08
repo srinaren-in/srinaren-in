@@ -11,7 +11,7 @@
 [![AIML Student](https://img.shields.io/badge/Focus-AI_%26_Machine_Learning-0D1117?style=flat-square&logo=google-cloud&logoColor=2DD4BF)](#)
 [![Python Developer](https://img.shields.io/badge/Core-Python_Developer-0D1117?style=flat-square&logo=python&logoColor=22C55E)](#)
 [![Location](https://img.shields.io/badge/Location-Tamil_Nadu%2C_India-0D1117?style=flat-square&logo=google-maps&logoColor=2DD4BF)](#)
-[![Aspiring AI Engineer](https://img.shields.io/badge/Goal-Aspiring_AI_Engineer-0D1117?style=flat-square&logo=target&logoColor=22C55E)](#)
+[![AI Engineer](https://img.shields.io/badge/_AI_Engineer-0D1117?style=flat-square&logo=target&logoColor=22C55E)](#)
 
 <br/>
 
