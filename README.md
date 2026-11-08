@@ -8,6 +8,36 @@
 
 <br/>
 
+## ⚡ TECHNOLOGY STACK
+
+<div align="center">
+
+<!-- Row 1: Languages & Frontend Frameworks -->
+<a href="#">
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,c,react,nextjs,vite,tailwind,html,css&theme=dark" alt="Languages & Frontend" />
+</a>
+
+<br/>
+
+<!-- Row 2: Backend, Databases & Core AI -->
+<a href="#">
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,postgres,supabase,firebase,mysql,mongodb,redis,pytorch,tensorflow&theme=dark" alt="Backend, Databases & AI" />
+</a>
+
+<br/>
+
+<!-- Row 3: Machine Learning, Cloud, DevOps & Engineering Tools -->
+<a href="#">
+  <img src="https://skillicons.dev/icons?i=sklearn,opencv,aws,docker,git,github,linux,vercel,vscode,idea,postman&theme=dark" alt="ML, Cloud & Tools" />
+</a>
+
+<br/>
+
+<sub>ROW 1: LANGUAGES & WEB · ROW 2: BACKEND, DATABASES & AI · ROW 3: ML/VISION, CLOUD & TOOLS</sub>
+
+</div>
+
+
 [![AIML Student](https://img.shields.io/badge/Focus-AI_%26_Machine_Learning-0D1117?style=flat-square&logo=google-cloud&logoColor=2DD4BF)](#)
 [![Python Developer](https://img.shields.io/badge/Core-Python_Developer-0D1117?style=flat-square&logo=python&logoColor=22C55E)](#)
 [![Location](https://img.shields.io/badge/Location-Tamil_Nadu%2C_India-0D1117?style=flat-square&logo=google-maps&logoColor=2DD4BF)](#)
@@ -50,34 +80,6 @@
 
 ---
 
-## ⚡ TECHNOLOGY STACK
-
-<div align="center">
-
-<!-- Row 1: Languages & Frontend Frameworks -->
-<a href="#">
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,c,react,nextjs,vite,tailwind,html,css&theme=dark" alt="Languages & Frontend" />
-</a>
-
-<br/>
-
-<!-- Row 2: Backend, Databases & Core AI -->
-<a href="#">
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,postgres,supabase,firebase,mysql,mongodb,redis,pytorch,tensorflow&theme=dark" alt="Backend, Databases & AI" />
-</a>
-
-<br/>
-
-<!-- Row 3: Machine Learning, Cloud, DevOps & Engineering Tools -->
-<a href="#">
-  <img src="https://skillicons.dev/icons?i=sklearn,opencv,aws,docker,git,github,linux,vercel,vscode,idea,postman&theme=dark" alt="ML, Cloud & Tools" />
-</a>
-
-<br/>
-
-<sub>ROW 1: LANGUAGES & WEB · ROW 2: BACKEND, DATABASES & AI · ROW 3: ML/VISION, CLOUD & TOOLS</sub>
-
-</div>
 
 ---
 
