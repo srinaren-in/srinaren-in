@@ -1,13 +1,11 @@
 <div align="center">
 
-# Hey, I'm Naren 👋
-
-### AI & Machine Learning Student | Aspiring AI Engineer
+# Hey, I'm Srinaren K 🧑‍💻
+### Applied AI Engineer · Agentic Systems · LLMs · MLOps
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&width=550&lines=Exploring+Artificial+Intelligence;Building+AI-powered+Applications;Learning+Agentic+AI+and+LLMs;Developing+Practical+ML+Projects;Growing+as+an+Engineer)](https://github.com/srinaren-in)
 
 <br/>
-
 ## ⚡ TECHNOLOGY STACK
 
 <div align="center">
