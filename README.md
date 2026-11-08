@@ -6,7 +6,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&width=550&lines=Exploring+Artificial+Intelligence;Building+AI-powered+Applications;Learning+Agentic+AI+and+LLMs;Developing+Practical+ML+Projects;Growing+as+an+Engineer)](https://github.com/srinaren-in)
 
 <br/>
-## ⚡ TECHNOLOGY STACK
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&duration=2500&pause=1000&color=2DD4BF&center=true&vCenter=true&width=600&lines=%E2%9A%A1+MY+TECHNOLOGY+STACK" />
+</div>
 
 <div align="center">
 
