@@ -83,7 +83,7 @@
 
 ---
 
-## 📌 About Me
+## 📌 About Myself
 
 - 🎓 **Undergraduate Student** studying **Artificial Intelligence and Machine Learning** in Tamil Nadu, India.
 - 💡 **Engineering Approach**: Driven by practical AI and software engineering—focusing on solving real-world challenges through code.
