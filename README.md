@@ -52,6 +52,16 @@
 </div>
 
 ---
+##📌 About Myself
+
+- 🎓 **Undergraduate Student** studying **Artificial Intelligence and Machine Learning** in Tamil Nadu, India.
+- 💡 **Engineering Approach**: Driven by practical AI and software engineering—focusing on solving real-world challenges through code.
+- 🔬 **Machine Learning & Deep Learning**: Actively studying neural architectures, computer vision pipelines, and model evaluation techniques.
+- ⚡ **Generative AI & LLMs**: Building applications with large language models, prompt engineering, structured outputs, and local model inference.
+- 🤖 **Agentic AI & Orchestration**: Experimenting with tool calling, autonomous workflows, and multi-agent coordination.
+- 🛠️ **Full-Stack Development**: Integrating modern, responsive frontends with Python backend services and relational/document databases.
+- 📚 **Foundations First**: Consistently strengthening fundamentals in Python, Java, Data Structures & Algorithms, and database systems.
+- ☁️ **Cloud & Deployment**: Learning cloud infrastructure, containerization, and production-ready deployment workflows.
 
 ## 📈 CONTRIBUTION ACTIVITY
 
@@ -83,16 +93,7 @@
 
 ---
 
-## 📌 About Myself
 
-- 🎓 **Undergraduate Student** studying **Artificial Intelligence and Machine Learning** in Tamil Nadu, India.
-- 💡 **Engineering Approach**: Driven by practical AI and software engineering—focusing on solving real-world challenges through code.
-- 🔬 **Machine Learning & Deep Learning**: Actively studying neural architectures, computer vision pipelines, and model evaluation techniques.
-- ⚡ **Generative AI & LLMs**: Building applications with large language models, prompt engineering, structured outputs, and local model inference.
-- 🤖 **Agentic AI & Orchestration**: Experimenting with tool calling, autonomous workflows, and multi-agent coordination.
-- 🛠️ **Full-Stack Development**: Integrating modern, responsive frontends with Python backend services and relational/document databases.
-- 📚 **Foundations First**: Consistently strengthening fundamentals in Python, Java, Data Structures & Algorithms, and database systems.
-- ☁️ **Cloud & Deployment**: Learning cloud infrastructure, containerization, and production-ready deployment workflows.
 
 <br/>
 
