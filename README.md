@@ -5,7 +5,6 @@
   <a href="https://github.com/srinaren-in">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=900&color=2DD4BF&center=true&vCenter=true&width=650&lines=Learning+by+building;Exploring+AI+and+Agentic+Systems;Turning+ideas+into+working+projects;Improving+my+software+engineering+fundamentals" alt="Typing introduction" />
   </a>
-
   <p>
     <img src="https://img.shields.io/badge/Focus-AI%20%26%20Machine%20Learning-0D1117?style=flat-square&logo=google-cloud&logoColor=2DD4BF" />
     <img src="https://img.shields.io/badge/Interests-Agentic%20AI-0D1117?style=flat-square&logo=openai&logoColor=2DD4BF" />
@@ -16,9 +15,6 @@
   <em>Building practical applications, exploring intelligent systems, and strengthening engineering fundamentals.</em>
 
 </div>
-
----
-
 ## 👋 About Me
 
 <table>
