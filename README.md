@@ -1,225 +1,181 @@
 <div align="center">
 
-# Hey, I'm Srinaren K 🧑‍💻
-### Applied AI Engineer · Agentic Systems · LLMs · MLOps
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:123B3A,100:2DD4BF&height=190&section=header&text=Srinaren%20K&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=AI%20%7C%20Machine%20Learning%20%7C%20Software%20Engineering&descAlignY=60&descSize=16" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&width=550&lines=Exploring+Artificial+Intelligence;Building+AI-powered+Applications;Learning+Agentic+AI+and+LLMs;Developing+Practical+ML+Projects;Growing+as+an+Engineer)](https://github.com/srinaren-in)
+  <a href="https://github.com/srinaren-in">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=900&color=2DD4BF&center=true&vCenter=true&width=650&lines=Learning+by+building;Exploring+AI+and+Agentic+Systems;Turning+ideas+into+working+projects;Improving+my+software+engineering+fundamentals" alt="Typing introduction" />
+  </a>
 
-<br/>
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&duration=2500&pause=1000&color=2DD4BF&center=true&vCenter=true&width=600&lines=%E2%9A%A1+MY+TECHNOLOGY+STACK" />
-</div>
+  <p>
+    <img src="https://img.shields.io/badge/Focus-AI%20%26%20Machine%20Learning-0D1117?style=flat-square&logo=google-cloud&logoColor=2DD4BF" />
+    <img src="https://img.shields.io/badge/Interests-Agentic%20AI-0D1117?style=flat-square&logo=openai&logoColor=2DD4BF" />
+    <img src="https://img.shields.io/badge/Core-Python-0D1117?style=flat-square&logo=python&logoColor=22C55E" />
+    <img src="https://img.shields.io/badge/Location-Tamil%20Nadu%2C%20India-0D1117?style=flat-square&logo=googlemaps&logoColor=2DD4BF" />
+  </p>
 
-<div align="center">
-
-<!-- Row 1: Languages & Frontend Frameworks -->
-<a href="#">
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,c,react,nextjs,vite,tailwind,html,css&theme=dark" alt="Languages & Frontend" />
-</a>
-
-<br/>
-
-<!-- Row 2: Backend, Databases & Core AI -->
-<a href="#">
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,postgres,supabase,firebase,mysql,mongodb,redis,pytorch,tensorflow&theme=dark" alt="Backend, Databases & AI" />
-</a>
-
-<br/>
-
-<!-- Row 3: Machine Learning, Cloud, DevOps & Engineering Tools -->
-<a href="#">
-  <img src="https://skillicons.dev/icons?i=sklearn,opencv,aws,docker,git,github,linux,vercel,vscode,idea,postman&theme=dark" alt="ML, Cloud & Tools" />
-</a>
-
-<br/>
-
-<sub>ROW 1: LANGUAGES & WEB · ROW 2: BACKEND, DATABASES & AI · ROW 3: ML/VISION, CLOUD & TOOLS</sub>
-
-</div>
-
-
-[![AIML Student](https://img.shields.io/badge/Focus-AI_%26_Machine_Learning-0D1117?style=flat-square&logo=google-cloud&logoColor=2DD4BF)](#)
-[![Python Developer](https://img.shields.io/badge/Core-Python_Developer-0D1117?style=flat-square&logo=python&logoColor=22C55E)](#)
-[![Location](https://img.shields.io/badge/Location-Tamil_Nadu%2C_India-0D1117?style=flat-square&logo=google-maps&logoColor=2DD4BF)](#)
-[![Aspiring AI Engineer](https://img.shields.io/badge/Goal-Aspiring_AI_Engineer-0D1117?style=flat-square&logo=target&logoColor=22C55E)](#)
-
-<br/>
-
-<p align="center">
-  <em>Engineering intelligent applications, practical agentic systems & modern software.</em>
-</p>
-
-</div>
-📌 About Myself
-
-- 🎓 **Undergraduate Student** studying **Artificial Intelligence and Machine Learning** in Tamil Nadu, India.
-- 💡 **Engineering Approach**: Driven by practical AI and software engineering—focusing on solving real-world challenges through code.
-- 🔬 **Machine Learning & Deep Learning**: Actively studying neural architectures, computer vision pipelines, and model evaluation techniques.
-- ⚡ **Generative AI & LLMs**: Building applications with large language models, prompt engineering, structured outputs, and local model inference.
-- 🤖 **Agentic AI & Orchestration**: Experimenting with tool calling, autonomous workflows, and multi-agent coordination.
-- 🛠️ **Full-Stack Development**: Integrating modern, responsive frontends with Python backend services and relational/document databases.
-- 📚 **Foundations First**: Consistently strengthening fundamentals in Python, Java, Data Structures & Algorithms, and database systems.
-- ☁️ **Cloud & Deployment**: Learning cloud infrastructure, containerization, and production-ready deployment workflows.
-
-## 📈 CONTRIBUTION ACTIVITY
-
-<div align="center">
-
-<img width="100%" src="https://ghchart.rshah.org/2DD4BF/srinaren-in" alt="Contribution Graph" />
-
-<p align="center">
-  <sub>Real-time GitHub commit activity synced directly from repositories.</sub>
-</p>
-
-<br/>
-
-[![Streak Stats](https://streak-stats.demolab.com/?user=srinaren-in&theme=dark&hide_border=true&background=0D1117&ring=2DD4BF&fire=22C55E&currStreakLabel=2DD4BF&dates=8B949E)](https://github.com/srinaren-in)
-
-<br/>
-
-<a href="https://github.com/srinaren-in">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=srinaren-in&theme=github_dark" alt="GitHub Profile Summary" />
-</a>
-<a href="https://github.com/srinaren-in">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=srinaren-in&theme=github_dark" alt="GitHub Repo Stats" />
-</a>
+  <em>Building practical applications, exploring intelligent systems, and strengthening engineering fundamentals.</em>
 
 </div>
 
 ---
 
+## 👋 About Me
 
----
+<table>
+  <tr>
+    <td width="68%" valign="middle">
 
+- 🎓 Undergraduate student studying **Artificial Intelligence and Machine Learning**.
+- 🤖 Interested in **Generative AI, LLMs, Agentic AI, and Machine Learning**.
+- 🧪 Learning by developing practical projects that address real-world problems.
+- 🌱 Exploring tool calling, RAG, model evaluation, and AI application development.
+- 💻 Strengthening my foundations in **Python, Java, DSA, OOP, and databases**.
+- ☁️ Learning cloud technologies and reliable application deployment.
 
+    </td>
+    <td width="32%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="190" alt="Developer coding animation" />
+    </td>
+  </tr>
+</table>
 
-<br/>
+## 🧰 Technology Stack
 
-> *"Learn by building. Build to solve real problems."*
+<div align="center">
 
-<p align="center">
-  <strong>Learning continuously. Building consistently. Improving every day.</strong>
-</p>
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=python,java,c,typescript,javascript,html,css" alt="Programming languages" />
+
+**Frontend & Backend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,nodejs,fastapi,flask" alt="Frontend and backend technologies" />
+
+**Databases & Cloud**
+
+<img src="https://skillicons.dev/icons?i=firebase,supabase,postgres,mysql,mongodb,redis,aws" alt="Databases and cloud" />
+
+**AI / ML & Developer Tools**
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,docker,git,github,linux,vercel,vscode,postman" alt="AI, machine learning and developer tools" />
+
+</div>
+
+## 🧠 Areas I'm Exploring
+
+| Area | Current interests |
+|:---|:---|
+| **Generative AI & LLMs** | Prompting, context windows, structured outputs, local model inference |
+| **Agentic AI** | Tool/function calling, agent workflows, LangGraph, orchestration |
+| **Machine Learning** | Model training, evaluation, computer vision, MobileNetV3 |
+| **Backend Engineering** | Python APIs, REST, FastAPI, authentication, database integration |
+| **Cloud & Deployment** | AWS fundamentals, Docker, Vercel, Render |
+| **Computer Science** | Java, OOP, DSA, SQL, DBMS, software design |
 
 ---
 
 ## 🚀 Featured Projects
 
-### 01. [AgentFlow](https://github.com/srinaren-in/AgentFlow_5B) — Visual AI Agent Builder
+### 1. CropShield AI — Agricultural Intelligence
 
-> **Category:** Visual AI Agent Builder & Multi-Agent Orchestration  
-> **Development Status:** 🚧 *Active Architecture & Initial Scaffolding*  
-> **Repository:** [`srinaren-in/AgentFlow_5B`](https://github.com/srinaren-in/AgentFlow_5B)
+[![Repository](https://img.shields.io/badge/GitHub-CropShield%20AI-181717?style=flat-square&logo=github)](https://github.com/naren1111naren-cloud/cropshield.cc) [![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit-2DD4BF?style=flat-square&logo=vercel&logoColor=black)](https://cropshieldcc.vercel.app/)
 
-- **Problem:** Designing and connecting multi-step AI agent workflows with tool calling usually requires writing boilerplate coordination scripts that are difficult to inspect and debug.
-- **Solution:** A visual node-based platform designed to construct, connect, and execute autonomous AI agent workflows with local and cloud models.
-- **Key Capabilities:**
-  - Interactive node-based graph editor for designing agent workflows.
-  - LLM integration with rigid JSON schema tool/function calling.
-  - Hybrid model routing: local execution via Ollama and cloud inference via Gemini API.
-  - Stateful multi-agent coordination, checkpointing, and dynamic prompt chaining.
-- **Target Stack:** React, TypeScript, Vite, Python, FastAPI, LangGraph, PostgreSQL, Ollama, Gemini API.
+An agricultural intelligence prototype focused on helping paddy farmers identify crop diseases and access useful crop guidance.
 
----
+- Rice disease identification using an image-based AI workflow.
+- Tamil and English interface for accessible agricultural information.
+- Crop records and field information with Firebase integration.
+- **Stack:** React, TypeScript, Python, MobileNetV3, Gemini API, Firebase.
 
-### 02. [CropShield AI](https://github.com/naren1111naren-cloud/cropshield.cc) — Agricultural Pathology Intelligence
+### 2. NER-LogiAI (LINK X8) — Smart Logistics
 
-> **Category:** AI-Powered Agricultural Intelligence  
-> **Development Status:** 🌾 *Functional Prototype / Deployed*  
-> **Repository:** [`naren1111naren-cloud/cropshield.cc`](https://github.com/naren1111naren-cloud/cropshield.cc)
+[![Repository](https://img.shields.io/badge/GitHub-NER88-181717?style=flat-square&logo=github)](https://github.com/naren1111naren-cloud/NER88)
 
-- **Problem:** Paddy farmers in Tamil Nadu's agro-climatic zones face severe crop loss due to delayed diagnosis of rice blast, bacterial leaf blight, and sheath rot.
-- **Solution:** An accessible agricultural intelligence platform providing real-time crop disease diagnosis, risk forecasting, and localized treatment recommendations.
-- **Key Capabilities:**
-  - AI crop pathology scanner with severity scoring for rice diseases.
-  - Cauvery Delta micro-climate vulnerability insights and disease forecasting.
-  - Bilingual interface with full Tamil (தமிழ்) and English agricultural terminology support.
-  - Plot record management to track paddy varieties (CR 1009, ADT 45) and field treatments.
-  - Secure authentication and cloud data persistence via Firebase.
-- **Verified Stack:** TypeScript, React, Python, MobileNetV3, Gemini API, Tailwind CSS, Firebase.
+A Smart India Hackathon 2026 prototype exploring route resilience and logistics intelligence for the North Eastern Region.
 
----
+- GIS-based route visualization and route comparison.
+- Route-risk analysis and explanations for vulnerable segments.
+- Alternate-route exploration for disrupted corridors.
+- **Stack:** Python, FastAPI, React, PostgreSQL/PostGIS, Leaflet, Scikit-learn, XGBoost, SHAP.
 
-### 03. [NER-LogiAI (LINK X8)](https://github.com/naren1111naren-cloud/NER88) — Smart Logistics & Route Resilience
+### 3. SAFENET — Digital Risk Protection
 
-> **Category:** Transportation Intelligence & GIS Decision Support  
-> **Development Status:** 🏆 *Smart India Hackathon 2026 Prototype (SIH26002)*  
-> **Repository:** [`naren1111naren-cloud/NER88`](https://github.com/naren1111naren-cloud/NER88)
+[![Repository](https://img.shields.io/badge/GitHub-SAFENET-181717?style=flat-square&logo=github)](https://github.com/naren1111naren-cloud/SAFENET-BYTEXL)
 
-- **Problem:** Freight corridors and critical relief transit in the North Eastern Region of India face frequent multi-hour disruptions caused by landslides, flash floods, and narrow mountain passes.
-- **Solution:** Designed for the Ministry of Development of North Eastern Region (MDoNER), LINK X8 analyzes transit conditions, scores route resilience, and suggests alternate paths.
-- **Key Capabilities:**
-  - Interactive GIS map visualization with route tracking via OpenStreetMap and Leaflet.
-  - AI Route Risk Engine evaluating terrain disruption data and weather factors.
-  - Explainable AI (SHAP) layer explaining feature weight contributions behind route risk scores.
-  - Automatic alternate corridor finder with recalculated ETA delays.
-  - Offline-first field reporting mechanism with background data synchronization.
-- **Verified Stack:** Python, FastAPI, Scikit-learn, XGBoost, SHAP, JavaScript, React, PostgreSQL/PostGIS, Leaflet GIS, Docker.
+A hackathon prototype for investigating suspicious brand impersonation and digital threats.
 
----
+- Investigates suspicious social profiles, mobile apps, and domains.
+- Uses DNS, RDAP, and TLS checks as part of its investigation workflow.
+- Produces risk assessments and mitigation guidance.
+- **Stack:** Next.js, React, TypeScript, Python, PostgreSQL, Supabase.
 
-### 04. [SAFENET](https://github.com/naren1111naren-cloud/SAFENET-BYTEXL) — Digital Risk Protection Platform
+### 4. AgentFlow — Visual AI Agent Builder
 
-> **Category:** Brand Protection & Threat Intelligence  
-> **Development Status:** 🛡️ *HackXclerate Prototype (Team XL0291)*  
-> **Repository:** [`naren1111naren-cloud/SAFENET-BYTEXL`](https://github.com/naren1111naren-cloud/SAFENET-BYTEXL)
+[![Repository](https://img.shields.io/badge/GitHub-AgentFlow_5B-181717?style=flat-square&logo=github)](https://github.com/srinaren-in/AgentFlow_5B)
 
-- **Problem:** Organizations face rising brand spoofing, impersonation on social media, unauthorized mobile application clones, and phishing infrastructure.
-- **Solution:** A digital risk intelligence platform that investigates multi-surface brand impersonation and generates automated mitigation advisories.
-- **Key Capabilities:**
-  - Multi-source scanning for suspicious mobile APKs, rogue social handles, and typo-squatted domains.
-  - Live network validation layer executing DNS lookups, RDAP records, and TLS certificate checks.
-  - Evidence-based risk scoring algorithm evaluating identity variance and domain age.
-  - One-click takedown notice drafting and customer protection security advisories.
-- **Verified Stack:** Next.js, React, TypeScript, Python (OSINT & risk scripts), PostgreSQL, Supabase, Tailwind CSS.
+An early-stage project exploring visual construction and orchestration of multi-step AI agent workflows.
+
+- Node-based workflow design concept.
+- Exploring structured tool calling and local/cloud model integration.
+- **Planned stack:** React, TypeScript, Python, FastAPI, LangGraph, PostgreSQL, Ollama, Gemini API.
+- **Status:** Active architecture and initial scaffolding.
+
+### 🔎 More Projects
+
+| Project | What it explores | Link |
+|:---|:---|:---|
+| **GitXray** | GitHub repository analysis, diagnostics, and AI-assisted architectural insights | [Repository](https://github.com/naren1111naren-cloud/GitXray) |
+| **LLM Fundamentals** | Hands-on experiments with tokens, context, prompting, structured outputs, and hallucinations | [Repository](https://github.com/naren1111naren-cloud/LLM-Fundamentals-) |
 
 ---
 
-### 🔍 Additional Engineering Highlights
+## 📚 Currently Learning
 
-| Project | Description | Stack | Link |
-|:---|:---|:---:|:---:|
-| **GitXray** | Terminal-first GitHub repository intelligence CLI providing deterministic AST analysis, health diagnostics, and grounded AI architectural insights. | Python CLI, AST, GitHub API | [Repository](https://github.com/naren1111naren-cloud/GitXray) |
-| **LLM Fundamentals** | Interactive experimentation lab exploring tokenization, context windows, prompt design, temperature sampling, structured JSON outputs, and hallucination mechanics. | React, TypeScript, GenAI | [Repository](https://github.com/naren1111naren-cloud/LLM-Fundamentals-) |
-
----
-
-## 🧠 Currently Learning & Engineering Focus
-
-- 🧩 **Agentic Architectures**: Deepening knowledge in LangGraph, state graphs, conditional routing, and cyclic agent loops.
-- 🛠️ **Tool & Function Calling**: Engineering reliable schema validation, structured outputs, and autonomous API integration.
-- 📚 **RAG & Retrieval Systems**: Vector embeddings, similarity indexing, chunking strategies, and hybrid retrieval.
-- ⚙️ **Production MLOps**: Packaging models with Docker, managing model registries, and setting up automated inference pipelines.
-- ☁️ **Cloud Infrastructure**: Exploring core AWS services (EC2, S3, ECS, Lambda) for scalable application deployment.
-- 🏛️ **Software Foundations**: Solving Data Structures & Algorithms problems in Java/Python and studying system design principles.
-
----
+- **LLM Engineering:** structured generation, prompt design, and model behaviour.
+- **Agentic AI:** tool calling, stateful workflows, and agent orchestration.
+- **RAG Systems:** embeddings, chunking, vector search, and retrieval.
+- **Machine Learning:** computer vision, model evaluation, and deployment.
+- **AWS:** cloud fundamentals and core services such as IAM, EC2, S3, and VPC.
+- **Core CS:** Java, OOP, Data Structures & Algorithms, SQL, and DBMS.
 
 ## 🏆 Hackathons & Milestones
 
-- 🇮🇳 **Smart India Hackathon 2026 Prototype**: Built **LINK X8 (NER-LogiAI)** for the *Ministry of Development of North Eastern Region (MDoNER)* under Problem Statement ID `SIH26002`.
-- ⚡ **HackXclerate Prototype**: Developed **SAFENET** (Team `XL0291`), an automated digital risk protection and brand impersonation detection platform.
+- 🇮🇳 **Smart India Hackathon 2026:** Developed the NER-LogiAI / LINK X8 prototype for problem statement **SIH26002**.
+- ⚡ **HackXclerate:** Developed SAFENET, a digital risk protection prototype, with Team **XL0291**.
 
 ---
 
-## 🌐 Connect With Me
+## 📊 GitHub Statistics
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-srinaren--in-0D1117?style=for-the-badge&logo=github&logoColor=2DD4BF)](https://github.com/srinaren-in)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=22C55E)](#-connect-with-me)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-0D1117?style=for-the-badge&logo=googlechrome&logoColor=8B949E)](#)
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=srinaren-in&bg_color=0d1117&color=2dd4bf&line=2dd4bf&point=ffffff&area=true&hide_border=true" alt="GitHub activity graph" />
 
-<p align="center">
-  <em>Open to discussions on AI/ML projects, open-source collaborations, and developer tools.</em>
-</p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=srinaren-in&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srinaren-in&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages" />
+
+  <img width="70%" src="https://streak-stats.demolab.com?user=srinaren-in&theme=github-dark-blue&hide_border=true&ring=2DD4BF&fire=22C55E&currStreakLabel=2DD4BF" alt="GitHub streak" />
 
 </div>
 
 ---
 
+## 🤝 Connect With Me
+
 <div align="center">
 
-**Learn. Build. Experiment. Repeat. 🚀**
+  <a href="https://github.com/srinaren-in">
+    <img src="https://img.shields.io/badge/GitHub-srinaren--in-0D1117?style=for-the-badge&logo=github&logoColor=2DD4BF" alt="GitHub" />
+  </a>
+  <!-- Replace the placeholder below with your LinkedIn profile URL. -->
+  <a href="https://www.linkedin.com/in/srinarenk/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=2DD4BF" alt="LinkedIn" />
+  </a>
+
+  <br/><br/>
+  <em>Open to learning, collaboration, and conversations around AI/ML and software engineering.</em>
+
+  <br/><br/>
+  **Learn. Build. Experiment. Repeat. 🚀**
 
 </div>
