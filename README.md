@@ -1,126 +1,140 @@
-<div align="center">
+# Hey, I'm Sri Naren K 👋
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:123B3A,100:2DD4BF&height=200&section=header&text=Srinaren%20K&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=First-year%20CSE%20%7C%20AI%20%26%20Web%20Projects&descAlignY=60&descSize=18&animation=fadeIn" width="100%" alt="Srinaren K banner" />
-
-<a href="https://github.com/srinaren-in"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=2DD4BF&center=true&vCenter=true&width=620&lines=Building+AI-powered+web+apps;LLM+tool+calling+%26+agent+workflows;Computer+vision+for+agriculture;Java+%2B+DSA+every+week" alt="Typing intro" /></a>
-
-<p>
-<a href="https://github.com/srinaren-in"><img src="https://img.shields.io/badge/GitHub-srinaren--in-0D1117?style=for-the-badge&logo=github&logoColor=2DD4BF" alt="GitHub" /></a>
-<a href="https://www.linkedin.com/in/srinarenk/"><img src="https://img.shields.io/badge/LinkedIn-srinarenk-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<img src="https://img.shields.io/badge/Tamil%20Nadu%2C%20India-0D1117?style=for-the-badge&logo=googlemaps&logoColor=2DD4BF" alt="Location" />
-<img src="https://img.shields.io/badge/Open%20to-Collaboration-22C55E?style=for-the-badge" alt="Open to collaboration" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Aspiring+Software+Engineer;Aspiring+AI+Engineer;Building+Real-World+AI+Projects;Exploring+Cloud+%26+Agentic+AI;Learning+by+Building+Every+Day" alt="Typing SVG" />
 </p>
 
-</div>
+<p align="center">
+  <a href="https://github.com/naren1111naren-cloud">
+    <img src="https://komarev.com/ghpvc/?username=naren1111naren-cloud&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
+  </a>
+</p>
 
-<table>
-<tr>
-<td width="55%" valign="top">
+---
 
-### 👋 About
+## 👨‍💻 About Me
 
-- 🎓 CSE student at **Muthayammal Engineering College**, Rasipuram 
-- 🛠️ I build working prototypes: crop disease detector, logistics route-risk tool, brand-impersonation investigator
-- 📚 Learning Java, DSA, SQL, LLM engineering, RAG and AWS basics
+I'm a Computer Science student passionate about building technology that solves real-world problems.
 
-</td>
-<td width="45%" align="center" valign="middle">
+- 🎓 Currently pursuing Computer Science Engineering.
+- 💻 Learning Java, Data Structures & Algorithms and software development.
+- 🤖 Exploring Artificial Intelligence, LLMs and Agentic AI.
+- ☁️ Building my foundation in AWS and cloud computing.
+- 🚀 Interested in AI-powered applications and practical engineering.
+- 🌱 Improving my programming fundamentals through consistent practice.
+- 🎯 Goal: Become an AI Engineer and Software Engineer.
 
-<img src="https://github-readme-stats.vercel.app/api?username=srinaren-in&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2DD4BF&icon_color=2DD4BF&ring_color=2DD4BF" alt="GitHub stats" />
+> I believe in learning by building, experimenting, and continuously improving.
 
-</td>
-</tr>
-</table>
+---
 
-<div align="center">
+## 🛠️ Tech Stack & Tools
 
-<img src="https://skillicons.dev/icons?i=python,java,typescript,javascript,react,nextjs,fastapi,postgres,firebase,supabase,git" alt="Tech stack" />
+### Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts" />
+</p>
 
-</div>
+### Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
+</p>
 
-## 🚀 Projects
+### Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,firebase,supabase,mysql,postgres" />
+</p>
 
-<table>
-<tr>
-<td width="33%" valign="top">
+### AI & Machine Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
+  <img src="https://img.shields.io/badge/LLMs-Exploring-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Agentic_AI-Learning-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+</p>
 
-#### 🌾 CropShield AI
-Rice disease detection for paddy farmers, in Tamil and English.
+### Cloud, Development & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,git,github,vscode,postman,docker,vercel" />
+</p>
 
-- MobileNetV3 classifies the leaf photo
-- Gemini API writes the guidance
-- Firebase stores field records
+---
 
-<img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB" alt="Python" /> <img src="https://img.shields.io/badge/Firebase-0D1117?style=flat-square&logo=firebase&logoColor=FFCA28" alt="Firebase" />
+## 🚀 Featured Projects
 
-[Repo](https://github.com/naren1111naren-cloud/cropshield.cc) · [Live demo](https://cropshieldcc.vercel.app/)
+### 🌾 CropShield AI
+**AI-powered crop disease detection and agricultural assistance platform.**
 
-</td>
-<td width="33%" valign="top">
+- Detects crop diseases using image-based AI.
+- Provides crop health guidance.
+- Focuses on Tamil Nadu and South Indian farmers.
+- Designed with multilingual support and agricultural insights.
 
-#### 🗺️ LINK X8
-Route resilience for North-East India. SIH 2026, SIH26002.
+**Tech:** React, AI/Gemini API, Firebase, Python
 
-- Map view with route comparison
-- Risk scores with SHAP explanations
-- Alternate routes for disrupted corridors
+🔗 [Live Demo](https://cropshieldcc.vercel.app/) · [GitHub Repository](https://github.com/naren1111naren-cloud/cropshield.cc)
 
-<img src="https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=009688" alt="FastAPI" /> <img src="https://img.shields.io/badge/PostGIS-0D1117?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostGIS" /> <img src="https://img.shields.io/badge/XGBoost-0D1117?style=flat-square&logoColor=white" alt="XGBoost" />
+### 🛡️ SAFENET
+**Digital Risk Protection and Online Threat Monitoring Platform.**
 
-[Repo](https://github.com/naren1111naren-cloud/NER88)
+- Focuses on identifying suspicious profiles and impersonation.
+- Investigates fake brand accounts and potentially harmful applications.
+- Integrates external data sources for threat intelligence.
 
-</td>
-<td width="33%" valign="top">
+**Focus:** Cybersecurity, API integration, threat intelligence.
 
-#### 🛡️ SAFENET
-Brand impersonation investigator. HacXlerate 2026.
+### 🏔️ NER-LogiAI
+**AI-Based Smart Logistics and Accessibility Intelligence Platform.**
 
-- DNS, RDAP and TLS checks
-- Flags fake profiles, apps and domains
-- Risk report with mitigation steps
+- Designed to improve route accessibility and resilience.
+- Focuses on identifying vulnerable route segments.
+- Supports route comparison and safer travel decisions.
 
-<img src="https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/Supabase-0D1117?style=flat-square&logo=supabase&logoColor=3ECF8E" alt="Supabase" /> <img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+**Focus:** AI, geospatial intelligence, route optimization.
 
-[Repo](https://github.com/naren1111naren-cloud/SAFENET-BYTEXL)
+---
 
-</td>
-</tr>
-</table>
+## 📚 Currently Learning
 
-<table>
-<tr>
-<td width="33%" valign="top">
+| Area | Focus |
+|---|---|
+| Java | OOP, problem solving |
+| DSA | Arrays, strings, trees, graphs |
+| AI Engineering | LLM fundamentals, tool calling |
+| Agentic AI | AI agents and workflows |
+| AWS | Cloud fundamentals and core services |
+| Databases | SQL, DBMS and practical database design |
 
-#### 🧪 Currently building
-**[AgentFlow](https://github.com/srinaren-in/AgentFlow_5B)**: visual builder for multi-step AI agent workflows. Early stage. Planned: React, FastAPI, LangGraph, Ollama.
+---
 
-</td>
-<td width="33%" valign="top">
+## 📊 GitHub Statistics
 
-#### 🔬 More
-**[GitXray](https://github.com/naren1111naren-cloud/GitXray)**: repo analysis and AI architecture notes.
-**[LLM Fundamentals](https://github.com/naren1111naren-cloud/LLM-Fundamentals-)**: tokens, context, prompting, hallucinations.
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=naren1111naren-cloud&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naren1111naren-cloud&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</p>
 
-</td>
-<td width="33%" valign="top">
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=naren1111naren-cloud&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
 
-#### 🏆 Hackathons
-**Smart India Hackathon 2026**: LINK X8
-**HacXlerate 2026**: SAFENET, Team XL0291
+---
 
-</td>
-</tr>
-</table>
+## 🌐 Connect With Me
 
-## 📊 Activity
+<p align="center">
+  <a href="https://www.linkedin.com/in/srinarenk/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/naren1111naren-cloud">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
-<div align="center">
+---
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=srinaren-in&bg_color=0d1117&color=2dd4bf&line=2dd4bf&point=ffffff&area=true&hide_border=true" alt="Contribution activity graph" />
-
-<img height="150" src="https://streak-stats.demolab.com?user=srinaren-in&theme=github-dark-blue&hide_border=true&ring=2DD4BF&fire=22C55E&currStreakLabel=2DD4BF" alt="Streak" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srinaren-in&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2DD4BF" alt="Top languages" />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2DD4BF,50:123B3A,100:0D1117&height=100&section=footer" width="100%" alt="" />
+<p align="center">
+  <b>Building skills. Solving problems. Creating impact.</b>
+  <br/>
+  <i>One commit at a time. 🚀</i>
+</p>
