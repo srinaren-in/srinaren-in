@@ -1,11 +1,7 @@
-# SRI NAREN K | Backend Developer & AI Engineer
-
-<!-- ANIMATED HERO BANNER -->
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:090D18,45:142B50,100:5336A8&text=SRI%20NAREN%20K&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=BACKEND%20DEVELOPER%20%7C%20AI%20ENGINEER&descAlignY=58&descSize=17&animation=twinkling" />
 </p>
 
-<!-- ANIMATED TYPING -->
 <p align="center">
   <a href="https://github.com/srinaren-in">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2500&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Learning+deeply.+Building+consistently.;Engineering+better%2C+one+project+at+a+time.;Exploring+Backend+Engineering+%26+AI.;Building+intelligent+and+practical+software." alt="Typing SVG" />
@@ -21,8 +17,6 @@
   </a>
   <img src="https://komarev.com/ghpvc/?username=srinaren-in&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS" />
 </p>
-
----
 
 ## `01` / ABOUT ME
 
