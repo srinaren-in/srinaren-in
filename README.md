@@ -1,187 +1,136 @@
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:090D18,45:142B50,100:5336A8&text=SRI%20NAREN%20K&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=BACKEND%20DEVELOPER%20%7C%20AI%20ENGINEER&descAlignY=58&descSize=17&animation=twinkling" />
-</p>
 <div align="center">
-  <img
-    src="https://www.gitskins.com/api/section/solar-orbits?username=srinaren-in&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F353925534%3Fu%3D61db958dd45d67d29a3aa964d53ccbf400fa6cfe%26v%3D4&mode=dark&v=2026-11-11&pv=FqCPlWdi2SG67KxZ"
-    width="100%"
-    alt="Sri Naren's programming languages as planets"
-  />
+
+<img src="assets/solar-system.svg" alt="Sri Naren's personal developer solar system" width="100%"/>
+
+### COMPUTER SCIENCE STUDENT · BACKEND DEVELOPMENT · AI ENGINEERING
+
+[![GitHub](https://img.shields.io/badge/GitHub-srinaren--in-0d1117?style=for-the-badge&logo=github)](https://github.com/srinaren-in)
+[![Profile Views](https://komarev.com/ghpvc/?username=srinaren-in&style=for-the-badge&color=2563eb&label=PROFILE+VIEWS)](https://github.com/srinaren-in)
+
+*Learning deeply. Building consistently. Engineering better.*
+
 </div>
 
-<p align="center">
-  <a href="https://github.com/srinaren-in">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2500&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Learning+deeply.+Building+consistently.;Engineering+better%2C+one+project+at+a+time.;Exploring+Backend+Engineering+%26+AI.;Building+intelligent+and+practical+software." alt="Typing SVG" />
-  </a>
-</p>
+---
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/srinarenk/">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/srinaren-in">
-    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=srinaren-in&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS" />
-</p>
+## ☀️ The Sun — About the builder
 
-## `01` / ABOUT ME
+Hey, I'm **Sri Naren** — a Computer Science Engineering student exploring the intersection of software engineering and artificial intelligence.
 
-I'm a Computer Science Engineering student passionate about building software, exploring intelligent systems, and understanding how technology works behind the scenes.
+I like understanding how systems work beneath the surface: from programming fundamentals and data structures to APIs, backend services, and AI-powered applications.
 
-My interests sit at the intersection of **Backend Engineering, Artificial Intelligence, and System Design.**
+- 🔭 Currently exploring **Python, Java, backend engineering and Agentic AI**.
+- 🧠 Learning **LLMs, tool calling, multi-agent workflows and practical AI development**.
+- 🛠️ Building projects that connect software with real-world problems.
+- ☁️ Exploring **AWS and cloud fundamentals**.
+- 🎯 Long-term direction: become a strong software engineer with the ability to build intelligent systems.
 
-- ⚙️ Exploring backend architecture, APIs, and scalable applications.
-- 🤖 Learning LLMs, Agentic AI, and intelligent automation.
-- ☁️ Exploring AWS and cloud infrastructure.
-- 💻 Strengthening Java, Python, DSA, and computer science fundamentals.
-- 🧠 Interested in system design, databases, and problem-solving.
-- 🚀 Building practical projects and learning through implementation.
-
-> **Learning deeply. Building consistently. Engineering better.**
+> I value fundamentals, practical experimentation, and software that solves real problems.
 
 ---
 
-## `02` / TECH ARSENAL
+## 🪐 The planetary system — My technology orbit
 
-Technologies I use, learn, and actively explore.
+<img src="assets/technology-constellation.svg" alt="Technology constellation" width="100%"/>
 
-### Languages
+| Planet | Technology orbit | Current focus |
+|---|---|---|
+| 🔵 Earth | Python | Backend development, APIs and AI experiments |
+| 🟠 Mercury | Java | OOP, problem solving and DSA foundations |
+| 🟣 Neptune | LLMs & Agentic AI | Prompting, tool calling and agent workflows |
+| 🔴 Mars | React & JavaScript | Building useful application interfaces |
+| 🟡 Jupiter | AWS & Cloud | Cloud fundamentals and core services |
+| 🪐 Saturn | SQL & Databases | Data modelling and database fundamentals |
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,js&theme=dark" />
-</p>
-
-### Backend & Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,docker,react,html,css&theme=dark" />
-</p>
-
-### Databases & Cloud
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,firebase,supabase,aws&theme=dark" />
-</p>
-
-### Developer Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel&theme=dark" />
-</p>
-
-### Exploring
-
-<p>
-  <img src="https://img.shields.io/badge/LLMs-Exploring-7C3AED?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Agentic_AI-Learning-0F766E?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/System_Design-Learning-2563EB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Data_Structures-Problem_Solving-E58A36?style=for-the-badge" />
-</p>
+*This is a learning-interest map, not a claim of expert-level proficiency.*
 
 ---
 
-## `03` / FEATURED PROJECTS
-
-Projects that reflect my interest in solving real-world problems through software and AI.
+## 🚀 Missions — Selected projects
 
 ### 🌾 CropShield AI
+An agricultural intelligence project focused on crop disease detection, farmer guidance and crop-health support, with a South Indian farming context.
 
-**AI-assisted crop disease detection and agricultural intelligence.**
-
-A project focused on helping farmers understand crop health through image-based disease analysis and practical agricultural guidance, with a South Indian agricultural context.
-
-- Image-based crop disease analysis.
-- Crop health guidance and agricultural insights.
-- Tamil and English user accessibility.
-- Agricultural intelligence and market-related features.
-
-**Stack:** React · Gemini API · Firebase
-
-[Live Demo](https://cropshieldcc.vercel.app/) | [Source Code](https://github.com/naren1111naren-cloud/cropshield.cc)
+- Focus: AI-assisted crop analysis and practical farmer-facing workflows.
+- Live project: [cropshieldcc.vercel.app](https://cropshieldcc.vercel.app/)
+- Technologies: React, Python, AI/ML and cloud-backed application services.
 
 ### 🛡️ SAFENET
+A digital-risk protection concept focused on discovering suspicious profiles, impersonation signals and potentially fraudulent digital activity.
 
-**Digital Risk Protection & Threat Intelligence**
+- Focus: digital trust, investigation workflows and real-world data sources.
+- Technologies: React, APIs and Supabase.
 
-Exploring a platform for identifying suspicious profiles, brand impersonation, scam accounts, and potentially harmful applications.
+### 🧭 NER-LogiAI
+A smart logistics and accessibility intelligence concept for evaluating route resilience and highlighting vulnerable route segments.
 
-- Suspicious account monitoring.
-- Brand impersonation detection.
-- External API integrations.
-- Digital threat intelligence.
-
-**Focus:** API Integration · Threat Intelligence · Digital Safety
-
-### 🏔️ NER-LogiAI
-
-**AI-Based Logistics & Accessibility Intelligence**
-
-A platform concept focused on improving transportation accessibility and route resilience in the North Eastern Region of India.
-
-- Route resilience scoring.
-- Vulnerable route segment identification.
-- Accessibility intelligence.
-- Safer route comparisons.
-
-**Focus:** AI · Geospatial Intelligence · Route Analysis
-
-### ⚡ Personal Projects
-
-Continuously experimenting with software development, backend engineering, AI applications, and practical developer tools.
+- Focus: route comparison, accessibility and explainable risk signals.
+- Technologies: React, Python and Supabase.
 
 ---
 
-## `04` / CURRENTLY EXPLORING
+## 🧰 Mission control — Tools & technologies
 
-| Domain | Learning Focus |
-|---|---|
-| Programming | Java, Python, JavaScript |
-| Problem Solving | DSA, LeetCode |
-| Backend Engineering | FastAPI, REST APIs |
-| Databases | SQL, MySQL, DBMS |
-| Cloud Computing | AWS Core Services |
-| AI Engineering | LLMs, structured outputs |
-| Agentic AI | Tool Calling, AI Agents |
-| System Design | Architecture, scalability |
-| DevOps | Docker, deployment |
+<div align="center">
 
----
+**Languages**
 
-## `05` / GITHUB ANALYTICS
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css" alt="Java, Python, JavaScript, HTML and CSS"/>
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=srinaren-in&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&bg_color=0D1117&title_color=58A6FF&icon_color=8957E5&text_color=C9D1D9" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srinaren-in&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
-</p>
+**Backend, data & frontend**
 
-<p align="center">
-  <img width="75%" src="https://streak-stats.demolab.com?user=srinaren-in&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=8957E5&currStreakLabel=58A6FF" />
-</p>
+<img src="https://skillicons.dev/icons?i=fastapi,react,mysql,postgres,supabase" alt="FastAPI, React, MySQL, PostgreSQL and Supabase"/>
+
+**Cloud & developer tools**
+
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,vscode" alt="AWS, Docker, Git, GitHub and VS Code"/>
+
+</div>
 
 ---
 
-## `06` / LET'S CONNECT
+## 📡 Signals from GitHub
 
-I'm open to **collaborations, hackathons, interesting projects, and opportunities to learn and build together.**
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/srinarenk/">
-    <img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/srinaren-in">
-    <img src="https://img.shields.io/badge/EXPLORE_MY_GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<a href="https://github.com/srinaren-in">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=srinaren-in&show_icons=true&hide_border=true&theme=transparent&title_color=60a5fa&text_color=c9d1d9&icon_color=60a5fa&bg_color=0d1117" alt="GitHub statistics"/>
+</a>
+<a href="https://github.com/srinaren-in">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srinaren-in&layout=compact&hide_border=true&theme=transparent&title_color=60a5fa&text_color=c9d1d9&bg_color=0d1117" alt="Most used languages"/>
+</a>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5336A8,50:142B50,100:090D18&height=120&section=footer&animation=twinkling" width="100%" />
-</p>
+<a href="https://github.com/srinaren-in">
+  <img width="95%" src="https://streak-stats.demolab.com?user=srinaren-in&hide_border=true&background=0D1117&ring=60A5FA&fire=F59E0B&currStreakLabel=60A5FA&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub contribution streak"/>
+</a>
 
-<p align="center">
-  <strong>STAY CURIOUS. BUILD FEARLESSLY. ENGINEER THE FUTURE.</strong>
-</p>
+</div>
 
-<p align="center">
-  <sub>Learning in public • Building in progress • Always evolving</sub>
-</p>
+<sub>Statistics are loaded from third-party services and may be unavailable or rate-limited. They are not hardcoded.</sub>
+
+---
+
+## 🌌 Beyond the orbit — What I'm working toward
+
+- Strengthening Java, Python, OOP and DSA fundamentals.
+- Building backend services with Python and FastAPI.
+- Understanding LLM internals and designing useful AI agents.
+- Learning databases, system design and cloud deployment.
+- Shipping projects with clear documentation and maintainable code.
+
+---
+
+## 📬 Establish contact
+
+<div align="center">
+
+If you're interested in building, learning, hackathons or practical AI projects, let's connect.
+
+[![GitHub](https://img.shields.io/badge/Explore_my_code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/srinaren-in)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+
+**Keep exploring. Keep building.**
+
+<sub>Designed as a small universe of what I'm learning and building.</sub>
+
+</div>
