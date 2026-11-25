@@ -16,4 +16,4 @@
 - Confirm that the CropShield deployment URL is still active.
 - Add repository links to SAFENET and NER-LogiAI once those repositories are public under this account.
 - Skill icons and GitHub stats use third-party image services; they may be rate-limited or blocked. The core README and custom SVG art are self-contained in this repository.
-- The solar-system illustration is a static SVG, not a live animation. GitHub README rendering does not reliably support custom JavaScript animation.
+- Both SVGs use pure SVG SMIL animations (no JavaScript) for GitHub README compatibility.

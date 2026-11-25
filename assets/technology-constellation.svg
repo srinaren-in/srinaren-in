@@ -1,11 +1,160 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="250" viewBox="0 0 1000 250" role="img" aria-label="Technology constellation">
-<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#091426"/><stop offset="1" stop-color="#111827"/></linearGradient><filter id="g"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
-<rect width="1000" height="250" rx="18" fill="url(#bg)"/>
-<g stroke="#6c8eaf" stroke-opacity=".25" fill="none"><path d="M70 125H930"/><path d="M160 55L330 195 500 55 670 195 840 55"/></g>
-<g font-family="Arial" text-anchor="middle">
-<g><circle cx="160" cy="125" r="29" fill="#3776ab" filter="url(#g)"/><text x="160" y="130" fill="white" font-size="14" font-weight="bold">Py</text><text x="160" y="180" fill="#d7e6f5" font-size="13">PYTHON</text></g>
-<g><circle cx="330" cy="125" r="29" fill="#e58b2a" filter="url(#g)"/><text x="330" y="130" fill="white" font-size="14" font-weight="bold">J</text><text x="330" y="180" fill="#d7e6f5" font-size="13">JAVA</text></g>
-<g><circle cx="500" cy="125" r="29" fill="#3b82f6" filter="url(#g)"/><text x="500" y="130" fill="white" font-size="14" font-weight="bold">AI</text><text x="500" y="180" fill="#d7e6f5" font-size="13">LLMs / AGENTS</text></g>
-<g><circle cx="670" cy="125" r="29" fill="#61dafb" filter="url(#g)"/><text x="670" y="130" fill="#07111f" font-size="14" font-weight="bold">R</text><text x="670" y="180" fill="#d7e6f5" font-size="13">REACT</text></g>
-<g><circle cx="840" cy="125" r="29" fill="#f59e0b" filter="url(#g)"/><text x="840" y="130" fill="#07111f" font-size="14" font-weight="bold">☁</text><text x="840" y="180" fill="#d7e6f5" font-size="13">AWS / CLOUD</text></g>
-</g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="270" viewBox="0 0 1000 270" role="img" aria-label="3D Animated Technology Constellation">
+<defs>
+  <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#06101f"/>
+    <stop offset="55%" stop-color="#0b172a"/>
+    <stop offset="100%" stop-color="#111827"/>
+  </linearGradient>
+  <linearGradient id="floorGrid" x1="0%" y1="0%" x2="0%" y2="100%">
+    <stop offset="0%" stop-color="#38bdf8" stop-opacity="0"/>
+    <stop offset="100%" stop-color="#38bdf8" stop-opacity="0.18"/>
+  </linearGradient>
+  <linearGradient id="beam" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.15"/>
+    <stop offset="50%" stop-color="#93c5fd" stop-opacity="0.65"/>
+    <stop offset="100%" stop-color="#38bdf8" stop-opacity="0.15"/>
+  </linearGradient>
+
+  <!-- 3D Sphere Gradients -->
+  <radialGradient id="orbPy" cx="32%" cy="28%" r="70%">
+    <stop offset="0%" stop-color="#dbeafe"/>
+    <stop offset="30%" stop-color="#4b8bbe"/>
+    <stop offset="75%" stop-color="#224c73"/>
+    <stop offset="100%" stop-color="#0d2136"/>
+  </radialGradient>
+  <radialGradient id="orbJava" cx="32%" cy="28%" r="70%">
+    <stop offset="0%" stop-color="#ffedd5"/>
+    <stop offset="30%" stop-color="#f59e0b"/>
+    <stop offset="75%" stop-color="#b45309"/>
+    <stop offset="100%" stop-color="#451a03"/>
+  </radialGradient>
+  <radialGradient id="orbAI" cx="32%" cy="28%" r="70%">
+    <stop offset="0%" stop-color="#e0f2fe"/>
+    <stop offset="30%" stop-color="#3b82f6"/>
+    <stop offset="75%" stop-color="#1d4ed8"/>
+    <stop offset="100%" stop-color="#0f172a"/>
+  </radialGradient>
+  <radialGradient id="orbReact" cx="32%" cy="28%" r="70%">
+    <stop offset="0%" stop-color="#ffffff"/>
+    <stop offset="30%" stop-color="#61dafb"/>
+    <stop offset="75%" stop-color="#0284c7"/>
+    <stop offset="100%" stop-color="#082f49"/>
+  </radialGradient>
+  <radialGradient id="orbCloud" cx="32%" cy="28%" r="70%">
+    <stop offset="0%" stop-color="#fef3c7"/>
+    <stop offset="30%" stop-color="#fbbf24"/>
+    <stop offset="75%" stop-color="#b45309"/>
+    <stop offset="100%" stop-color="#451a03"/>
+  </radialGradient>
+
+  <radialGradient id="shadowGrad" cx="50%" cy="50%" r="50%">
+    <stop offset="0%" stop-color="#000000" stop-opacity="0.65"/>
+    <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+  </radialGradient>
+
+  <filter id="g" x="-40%" y="-40%" width="180%" height="180%">
+    <feGaussianBlur stdDeviation="6" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+
+  <path id="mainLine" d="M 70,125 L 930,125"/>
+  <path id="zigPath" d="M 160,55 L 330,190 L 500,55 L 670,190 L 840,55"/>
+</defs>
+
+<rect width="1000" height="270" rx="18" fill="url(#bg)"/>
+
+<!-- 3D Perspective Floor Grid -->
+<g stroke="url(#floorGrid)" stroke-width="1">
+  <line x1="0" y1="210" x2="1000" y2="210"/>
+  <line x1="0" y1="232" x2="1000" y2="232"/>
+  <line x1="0" y1="258" x2="1000" y2="258"/>
+  <line x1="200" y1="195" x2="60" y2="270"/>
+  <line x1="350" y1="195" x2="270" y2="270"/>
+  <line x1="500" y1="195" x2="500" y2="270"/>
+  <line x1="650" y1="195" x2="730" y2="270"/>
+  <line x1="800" y1="195" x2="940" y2="270"/>
+</g>
+
+<!-- Animated Constellation Connections -->
+<use href="#mainLine" stroke="url(#beam)" stroke-width="2" fill="none"/>
+<use href="#zigPath" stroke="#60a5fa" stroke-opacity="0.28" stroke-width="1.4" stroke-dasharray="6 6" fill="none">
+  <animate attributeName="stroke-dashoffset" from="24" to="0" dur="1.8s" repeatCount="indefinite"/>
+</use>
+
+<!-- Moving Data Packets -->
+<circle r="3.5" fill="#93c5fd" filter="url(#g)">
+  <animateMotion dur="4.5s" repeatCount="indefinite"><mpath href="#mainLine"/></animateMotion>
+</circle>
+<circle r="3" fill="#67e8f9" filter="url(#g)">
+  <animateMotion dur="6s" repeatCount="indefinite" begin="-2.2s"><mpath href="#zigPath"/></animateMotion>
+</circle>
+
+<!-- 3D Floating Technology Orbs -->
+<g font-family="Arial,Helvetica,sans-serif" text-anchor="middle">
+  <!-- PYTHON -->
+  <g>
+    <ellipse cx="160" cy="176" rx="26" ry="6" fill="url(#shadowGrad)"/>
+    <g>
+      <ellipse cx="160" cy="125" rx="38" ry="11" fill="none" stroke="#60a5fa" stroke-opacity="0.45" stroke-width="1.5" transform="rotate(-18 160 125)"/>
+      <circle cx="160" cy="125" r="30" fill="url(#orbPy)" filter="url(#g)"/>
+      <ellipse cx="150" cy="113" rx="9" ry="5" fill="#ffffff" opacity="0.35" transform="rotate(-25 150 113)"/>
+      <text x="160" y="130" fill="#ffffff" font-size="14" font-weight="700">Py</text>
+      <animateTransform attributeName="transform" type="translate" values="0,0; 0,-7; 0,0" dur="3.6s" repeatCount="indefinite"/>
+    </g>
+    <text x="160" y="202" fill="#d7e6f5" font-size="12.5" font-weight="700" letter-spacing="1.2">PYTHON</text>
+  </g>
+
+  <!-- JAVA -->
+  <g>
+    <ellipse cx="330" cy="176" rx="26" ry="6" fill="url(#shadowGrad)"/>
+    <g>
+      <ellipse cx="330" cy="125" rx="38" ry="11" fill="none" stroke="#fbbf24" stroke-opacity="0.4" stroke-width="1.5" transform="rotate(16 330 125)"/>
+      <circle cx="330" cy="125" r="30" fill="url(#orbJava)" filter="url(#g)"/>
+      <ellipse cx="320" cy="113" rx="9" ry="5" fill="#ffffff" opacity="0.35" transform="rotate(-25 320 113)"/>
+      <text x="330" y="130" fill="#ffffff" font-size="14" font-weight="700">J</text>
+      <animateTransform attributeName="transform" type="translate" values="0,-6; 0,1; 0,-6" dur="4.0s" repeatCount="indefinite"/>
+    </g>
+    <text x="330" y="202" fill="#d7e6f5" font-size="12.5" font-weight="700" letter-spacing="1.2">JAVA</text>
+  </g>
+
+  <!-- LLMs / AGENTS (Center Hero Orb with Double 3D Rings) -->
+  <g>
+    <ellipse cx="500" cy="180" rx="32" ry="7" fill="url(#shadowGrad)"/>
+    <g>
+      <ellipse cx="500" cy="125" rx="46" ry="14" fill="none" stroke="#93c5fd" stroke-opacity="0.6" stroke-width="1.8" transform="rotate(-20 500 125)"/>
+      <ellipse cx="500" cy="125" rx="46" ry="14" fill="none" stroke="#38bdf8" stroke-opacity="0.4" stroke-width="1.4" transform="rotate(20 500 125)"/>
+      <circle cx="500" cy="125" r="33" fill="url(#orbAI)" filter="url(#g)"/>
+      <ellipse cx="489" cy="112" rx="10" ry="5.5" fill="#ffffff" opacity="0.4" transform="rotate(-25 489 112)"/>
+      <text x="500" y="131" fill="#ffffff" font-size="15" font-weight="700">AI</text>
+      <animateTransform attributeName="transform" type="translate" values="0,0; 0,-9; 0,0" dur="3.4s" repeatCount="indefinite"/>
+    </g>
+    <text x="500" y="202" fill="#e0f2fe" font-size="12.5" font-weight="700" letter-spacing="1.2">LLMs / AGENTS</text>
+  </g>
+
+  <!-- REACT -->
+  <g>
+    <ellipse cx="670" cy="176" rx="26" ry="6" fill="url(#shadowGrad)"/>
+    <g>
+      <ellipse cx="670" cy="125" rx="38" ry="11" fill="none" stroke="#67e8f9" stroke-opacity="0.45" stroke-width="1.5" transform="rotate(-16 670 125)"/>
+      <circle cx="670" cy="125" r="30" fill="url(#orbReact)" filter="url(#g)"/>
+      <ellipse cx="660" cy="113" rx="9" ry="5" fill="#ffffff" opacity="0.45" transform="rotate(-25 660 113)"/>
+      <text x="670" y="130" fill="#07111f" font-size="14" font-weight="700">R</text>
+      <animateTransform attributeName="transform" type="translate" values="0,-6; 0,1; 0,-6" dur="4.2s" repeatCount="indefinite"/>
+    </g>
+    <text x="670" y="202" fill="#d7e6f5" font-size="12.5" font-weight="700" letter-spacing="1.2">REACT</text>
+  </g>
+
+  <!-- AWS / CLOUD -->
+  <g>
+    <ellipse cx="840" cy="176" rx="26" ry="6" fill="url(#shadowGrad)"/>
+    <g>
+      <ellipse cx="840" cy="125" rx="38" ry="11" fill="none" stroke="#fde68a" stroke-opacity="0.45" stroke-width="1.5" transform="rotate(18 840 125)"/>
+      <circle cx="840" cy="125" r="30" fill="url(#orbCloud)" filter="url(#g)"/>
+      <ellipse cx="830" cy="113" rx="9" ry="5" fill="#ffffff" opacity="0.4" transform="rotate(-25 830 113)"/>
+      <text x="840" y="130" fill="#07111f" font-size="14" font-weight="700">☁</text>
+      <animateTransform attributeName="transform" type="translate" values="0,0; 0,-7; 0,0" dur="3.8s" repeatCount="indefinite"/>
+    </g>
+    <text x="840" y="202" fill="#d7e6f5" font-size="12.5" font-weight="700" letter-spacing="1.2">AWS / CLOUD</text>
+  </g>
+</g>
+</svg>
