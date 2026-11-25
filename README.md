@@ -1,6 +1,13 @@
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:090D18,45:142B50,100:5336A8&text=SRI%20NAREN%20K&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=BACKEND%20DEVELOPER%20%7C%20AI%20ENGINEER&descAlignY=58&descSize=17&animation=twinkling" />
 </p>
+<div align="center">
+  <img
+    src="https://www.gitskins.com/api/section/solar-orbits?username=srinaren-in&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F353925534%3Fu%3D61db958dd45d67d29a3aa964d53ccbf400fa6cfe%26v%3D4&mode=dark&v=2026-11-11&pv=FqCPlWdi2SG67KxZ"
+    width="100%"
+    alt="Sri Naren's programming languages as planets"
+  />
+</div>
 
 <p align="center">
   <a href="https://github.com/srinaren-in">
